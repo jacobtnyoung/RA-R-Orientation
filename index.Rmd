@@ -1,0 +1,9 @@
+---
+title: "RA R Orientation"
+---
+
+Has your mentor and/or advisor told you to learn *R*? Need to learn *R* and you need to learn it now? Well your in **luck**! 
+
+[RA R Orientation]() is dedicated to students who know nothing about *R*, but need to get started. The [curriculum]() for this short course will get you going with the basics as well as how to use *R Studio* to manage projects.
+
+To get started, take a look through the [curriculum page]().
