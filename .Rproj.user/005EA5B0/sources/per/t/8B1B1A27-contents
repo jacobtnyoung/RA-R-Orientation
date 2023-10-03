@@ -1,8 +1,0 @@
-name: "RA R Orientation"
-navbar:
-  title: "RA R Orientation"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "Curriculum"
-      href: curriculum.html
