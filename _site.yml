@@ -1,4 +1,5 @@
 name: "RA R Orientation"
+output_dir: docs
 navbar:
   title: "RA R Orientation"
   left:
