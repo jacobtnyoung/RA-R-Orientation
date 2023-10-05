@@ -1,5 +1,8 @@
 name: "RA R Orientation"
 output_dir: docs
+output:  
+  html_document:  
+    theme: simplex 
 navbar:
   title: "RA R Orientation"
   left:

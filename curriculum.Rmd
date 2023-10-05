@@ -2,5 +2,15 @@
 title: "Curriculum"
 ---
 
-## Overview of Curriculum
+### Overview of Curriculum
 
+<br>
+
+#### Basics
+
+<br> 
+Introduction to R and RStudio
+
+  + Start from scratch by going through the modules on the [R Workshop](https://jacobtnyoung.github.io/RWorkshop/) page.
+  
+  + ???
